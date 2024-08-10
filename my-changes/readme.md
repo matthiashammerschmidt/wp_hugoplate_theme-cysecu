@@ -19,3 +19,10 @@
 2. data/theme.json
 
 ### languages
+- de
+- en
+- config and best practices
+
+### privacy
+- change style.html to prevent dns-prefetch and preconnect - layouts/partials/essentials/style.html
+- activate consent manager
