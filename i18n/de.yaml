@@ -1,17 +1,17 @@
 - id: categories
-  other: Kategorien
+  translation: Kategorien
 
 - id: empty_search_results_placeholder
-  other: tippe um zu suchen..
+  translation: tippe um zu suchen..
 
 - id: full_name
-  other: Voller Name
+  translation: Voller Name
 
 - id: home
-  other: Home
+  translation: Home
 
 - id: no_results_for
-  other: Keine Ergebnise
+  translation: Keine Ergebnise
 
 - id: phone
   translation: Telefon
@@ -20,8 +20,9 @@
   translation: lesen ...
 
 - id: readingTime
-  one: 1 Minute
-  translation: '{{ .Count }} Minuten'
+  translation:
+    one: '1 Minute'
+    other: '{{ .Count }} Minuten'
 
 - id: related_posts
   translation: Related Posts
@@ -33,7 +34,7 @@
   translation: Senden
 
 - id: search_input_placeholder
-  translation: 'Suche Post ...'
+  translation: Suche Post ...
 
 - id: tags
   translation: Tags
@@ -46,8 +47,8 @@
 
 - id: wordCount
   translation:
-    one: '1 word'
-    other: '{{ .Count }} words'
+    one: '1 Wort'
+    other: '{{ .Count }} Wörter'
 
 - id: your_message
   translation: Nachricht

@@ -3,16 +3,16 @@
 # main
 [[main]]
 identifier = "solution"
-name = "Solutions"
-url = "/solutions/"
+name = "Lösungen"
+url = "/solutions"
 weight = 10
 
 [[main]]
 identifier = "solution-1"
-name = "Security Culture"
+name = "Sicherheits-Kultur"
 url = "/solutions/security-culture"
 weight = 10
-post = "The incomprehensible secret of safe and resilient organisms"
+post = "Das Un[be]greifbare Geheimnis sicherer und wiederstandsfähiger Organismen"
 parent = "solution"
 
 [[main]]
@@ -20,7 +20,7 @@ identifier = "solution-2"
 name = "sSDLC"
 url = "/solutions/ssdlc"
 weight = 20
-post = "The secure software development lifecycle"
+post = "Der sichere Software-Entwicklungs-Lebenszyklus"
 parent = "solution"
 
 ########### FORMATS ###########
@@ -35,7 +35,7 @@ identifier = "formats-workshop"
 name = "Workshops"
 url = "/formats/index.html#workshops"
 weight = 10
-post = "Workshops for intense work together"
+post = "Workshops für mehr Lebendigkeit und Intensive Zusammenarbeit"
 parent = "formats"
 
 [[main]]
@@ -43,7 +43,7 @@ identifier = "formats-trainings"
 name = "Trainings"
 url = "/formats/index.html#trainings"
 weight = 20
-post = "Train your skill and craft your team"
+post = "Trainings schulen und verbinden"
 parent = "formats"
 
 [[main]]
@@ -51,7 +51,7 @@ identifier = "formats-talk"
 name = "Talk"
 url = "/formats/index.html#talks"
 weight = 30
-post = "Talks for internal events, meetups, podcasts, "
+post = "Talks für events oder Security Champions"
 parent = "formats"
 
 ########### BLOG ###########
@@ -66,15 +66,15 @@ identifier = "blog-posts"
 name = "Posts"
 url = "/blog/index.html"
 weight = 1
-post = "All Blog-Posts"
+post = "Alle Posts des Blogs"
 parent = "blog"
 
 [[main]]
 identifier = "blog-categories"
-name = "Categories"
+name = "Kategorien"
 url = "/categories/index.html"
 weight = 10
-post = "Navigate by categories"
+post = "Navigation nach Kategorien"
 parent = "blog"
 
 [[main]]
@@ -82,13 +82,13 @@ identifier = "blog-tags"
 name = "Tags"
 url = "/tags/index.html"
 weight = 20
-post = "Navigate by tags"
+post = "Navigation nach Tags"
 parent = "blog"
 
 ########### ABOUT ###########
 [[main]]
 identifier = "about"
-name = "About"
+name = "Über"
 url = "/about/"
 weight = 30
 
@@ -97,72 +97,72 @@ identifier = "about-me"
 name = "Me"
 url = "/about"
 weight = 1
-post = "The whole story"
+post = "Die ganze Geschichte"
 parent = "about"
 
 [[main]]
-identifier = "about-motivation"
-name = "My motivation"
-url = "/about/index.html#motivation"
+identifier = "about-mission"
+name = "Meine Motivation"
+url = "/about/index.html#mission"
 weight = 10
-post = "Motivation and Mission"
+post = "Geschichte"
 parent = "about"
 
 [[main]]
 identifier = "about-experience"
-name = "My Experience"
+name = "Meine Erfahrung"
 url = "/about/index.html#experience"
 weight = 20
-post = "differnt experience"
+post = "verschiedene Erfahrungen"
 parent = "about"
 
 [[main]]
 identifier = "about-interest"
-name = "My interest"
+name = "Meine Interessen"
 url = "/about/index.html#interest"
 weight = 25
-post = "different interessts"
+post = "verschiedene Interessen"
 parent = "about"
 
 [[main]]
 identifier = "about-certificates"
-name = "My certificates"
+name = "Meine Zertifikate"
 url = "/about/index.html#certificates"
 weight = 30
-post = "different certificates"
+post = "verschiedene Zertifizierungen"
 parent = "about"
 
 [[main]]
 identifier = "about-cv"
-name = "My cv"
+name = "Mein Lebenslauf"
 url = "/about/index.html#certificates"
 weight = 40
-post = "free cv and one-pager"
+post = "Lebenslauf zum Download"
 parent = "about"
 
 ########################################################
 # footer menu
 [[footer]]
 name = "Solutions"
-url = "solutions/"
+url = "/solutions/"
 weight = 10
 
 [[footer]]
 name = "About"
-url = "about/"
+url = "/about/"
 weight = 20
 
 [[footer]]
-name = "Imprint"
+name = "Impressum"
 url = "/imprint"
 weight = 30
 
 [[footer]]
-name = "Privacy-Policy"
+name = "Datenschutz"
 url = "/privacy-policy"
 weight = 40
 
 [[footer]]
-name = "Theme-Elements"
+name = "Themen-Elemente"
 url = "/elements"
 weight = 50

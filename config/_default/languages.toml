@@ -1,6 +1,15 @@
+################ German language ##################
+[de]
+languageName = "DE"
+languageCode = "de-de"
+[de.params]
+  reading_speed = 178
+weight = 1
+
 ################ English language ##################
 [en]
-languageName = "En"
+languageName = "EN"
 languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
+[en.params]
+  reading_speed = 178
+weight = 2
