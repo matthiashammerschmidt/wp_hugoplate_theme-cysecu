@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "use i18n system"
+label = "@"
 link = "contact"
 
 # search
